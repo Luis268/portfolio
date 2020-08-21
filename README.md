@@ -1,10 +1,11 @@
 # Curriculo
 
-+ Luís Paulo Silva da Cunha
-+ São Paulo – SP
-+ Cel: (11) 98249-5955
-+ E-mail: e.luis.cunha@gmail.com
-
+<p>
+Luís Paulo Silva da Cunha<br>
+São Paulo – SP<br>
+Cel: (11) 98249-5955<br>
+E-mail: e.luis.cunha@gmail.com<br>
+</p>
 
 ### Habilidades e Competência
 - Trabalho em equipe
@@ -18,31 +19,34 @@ Manutenções em sites da plataforma Loja Integrada, criando e instalando de fer
 ### Experiência Profissional
 
 **Empresa:** Loja Gráfica Eskenazi<br>
-**Função:** Programador Júnior Back-end
-**Período:** 10/2019 Até 04/2020 * **_Dispensado por motivo da Pandemia COVID-19_**
-**Linguagens Utilizadas:** PHP 7.2, ZendFramework 2, GitHub, Sistema Operacional MacOS Catalina 10.*
+**Função:** Programador Júnior Back-end<br>
+**Período:** 10/2019 Até 04/2020 * **_Dispensado por motivo da Pandemia COVID-19_**<br>
+**Linguagens Utilizadas:** PHP 7.2, ZendFramework 2, GitHub, Sistema Operacional MacOS Catalina 10.*<br>
 **Atividades Desenvolvidas:** Criação de módulos para administração e distribuição de serviços internos.
 
 
-**Empresa:** Consultor Net ( Contratação pela Cooper Seven )
-**Função:** Programador Front End
-**Período:** 10/2018 Até 01/2019
-**Linguagens Utilizadas:** ECMAScript 5, Git BitBucket Versionamento.
+**Empresa:** Consultor Net ( Contratação pela Cooper Seven )<br>
+**Função:** Programador Front End<br>
+**Período:** 10/2018 Até 01/2019<br>
+**Linguagens Utilizadas:** ECMAScript 5, Git BitBucket Versionamento.<br>
 
-**Empresa:** Fox Solution
-**Função:** Programador Júnior
-**Período:** 08/2017 até 10/2017
-**Linguagens Utilizadas:** Framework CakePHP 2.6, Sistema Operacional Windows 7.
 
-**Empresa:** HmBrokers
-**Função:** Analista Programador Júnior
-**Período:** 09/2015 até 06/2016
-**Linguagens Utilizadas:** Sistema Operacional Ubuntu 14.04 LTS (linux)
+**Empresa:** Fox Solution<br>
+**Função:** Programador Júnior<br>
+**Período:** 08/2017 até 10/2017<br>
+**Linguagens Utilizadas:** Framework CakePHP 2.6, Sistema Operacional Windows 7.<br>
 
-**Empresa:** Grupo IDOC
-**Função:** Editor de Imagens e Programador
-**Período:** 11/2013 até 10/2015
-**Função Desenvolvida:** Edição e tratamento de imagens PhotoShop CS6, Linguagens Utilizadas: HTML, CSS3, JavaScript, PHP 5.2, Sistema Operacional Windows 7.
+
+**Empresa:** HmBrokers<br>
+**Função:** Analista Programador Júnior<br>
+**Período:** 09/2015 até 06/2016<br>
+**Linguagens Utilizadas:** Sistema Operacional Ubuntu 14.04 LTS (linux)<br>
+
+
+**Empresa:** Grupo IDOC<br>
+**Função:** Editor de Imagens e Programador<br>
+**Período:** 11/2013 até 10/2015<br>
+**Função Desenvolvida:** Edição e tratamento de imagens PhotoShop CS6, Linguagens Utilizadas: HTML, CSS3, JavaScript, PHP 5.2, Sistema Operacional Windows 7.<br>
 
 ### Formação Acadêmica
 
