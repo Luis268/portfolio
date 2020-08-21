@@ -1,9 +1,9 @@
 # Curriculo
 
-> Luís Paulo Silva da Cunha
-> São Paulo – SP
-> Cel: (11) 98249-5955
-> E-mail: e.luis.cunha@gmail.com
++ Luís Paulo Silva da Cunha
++ São Paulo – SP
++ Cel: (11) 98249-5955
++ E-mail: e.luis.cunha@gmail.com
 
 
 ### Habilidades e Competência
@@ -12,17 +12,20 @@
 - Otimista
 - Autodesenvolvimento
 
-```
 Manutenções em sites da plataforma Loja Integrada, criando e instalando de ferramentas para a integração na loja e-commerce desenvolvida pela empresa Consultor Net. Aprendizagem no FrameWork CakePHP 2.6 para a diagramação de sites. Diagramação de produtos para lojas Walmart, O Boticário projeto piloto para a Nestlé e Electrolux. Desenvolvimento em front-end e back-end com PHP 5.6, Banco de dados MYSQL Server 5.5, HTML 5, CSS3 e JavaScript.
-```
+
 
 ### Experiência Profissional
 **Empresa:** Loja Gráfica Eskenazi
+
 **Função:** Programador Júnior Back-end
+
 **Período:** 10/2019 Até 04/2020 *Dispensado por motivo da Pandemia COVID-19
+
 **Linguagens Utilizadas:** PHP 7.2, ZendFramework 2, GitHub, Sistema Operacional MacOS Catalina 10.*
+
 **Atividades Desenvolvidas:** Criação de módulos para administração e distribuição de serviços internos.
-__OBS: DISPENSADO POR MOTIVO DE PANDEMIA COVID-19__
+
 
 **Empresa:** Consultor Net ( Contratação pela Cooper Seven )
 **Função:** Programador Front End
@@ -45,13 +48,13 @@ __OBS: DISPENSADO POR MOTIVO DE PANDEMIA COVID-19__
 **Função Desenvolvida:** Edição e tratamento de imagens PhotoShop CS6, Linguagens Utilizadas: HTML, CSS3, JavaScript, PHP 5.2, Sistema Operacional Windows 7.
 
 ### Formação Acadêmica
-```
+
 Tecnólogo superior - Analise e Desenvolvimento de Sistemas
 UNINOVE - São Paulo, SP . Formado em 12/2016 
-```
+
  
 ### Cursos Extracurriculares
-```
+
 - Rocketseat – JavaScript ano 2020
 - Rocketseat – JavaScript ES6 ano 2020
 - Udemy – Lógica de Programação ano 2019
@@ -66,12 +69,12 @@ DOS SANTOS “, 2003
 - Curso de qualificação profissional em Suporte a rede de computadores,
 Área profissional em informática, concluído no SENAC de Guaratinguetá – SP.
 CEDEP “ NELSON ANTONIO MATHIDIOS DOS SANTOS”, 2001
-```
+
 
 
 
 # Portfólio
-=======
+
 
 
 
