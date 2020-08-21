@@ -17,9 +17,9 @@ Manutenções em sites da plataforma Loja Integrada, criando e instalando de fer
 
 ### Experiência Profissional
 
-**Empresa:** Loja Gráfica Eskenazi &nbsp;
+**Empresa:** Loja Gráfica Eskenazi<br>
 **Função:** Programador Júnior Back-end
-**Período:** 10/2019 Até 04/2020 **_Dispensado por motivo da Pandemia COVID-19_**
+**Período:** 10/2019 Até 04/2020 * **_Dispensado por motivo da Pandemia COVID-19_**
 **Linguagens Utilizadas:** PHP 7.2, ZendFramework 2, GitHub, Sistema Operacional MacOS Catalina 10.*
 **Atividades Desenvolvidas:** Criação de módulos para administração e distribuição de serviços internos.
 
