@@ -1,0 +1,14 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrap{
+    width: 980px;
+    padding: 25px;
+}
+
+img{
+    width: 150px;
+}
