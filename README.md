@@ -13,7 +13,7 @@ E-mail: e.luis.cunha@gmail.com<br>
 - Otimista
 - Autodesenvolvimento
 
-Manutenções em sites da plataforma Loja Integrada, criando e instalando de ferramentas para a integração na loja e-commerce desenvolvida pela empresa Consultor Net. Aprendizagem no FrameWork CakePHP 2.6 para a diagramação de sites. Diagramação de produtos para lojas Walmart, O Boticário projeto piloto para a Nestlé e Electrolux. Desenvolvimento em front-end e back-end com PHP 5.6, Banco de dados MYSQL Server 5.5, HTML 5, CSS3 e JavaScript.
+Manutenções em sites da plataforma Loja Integrada, criação e instalação de ferramentas para a integração na loja e-commerce desenvolvida pela empresa Consultor Net. Aprendizagem no FrameWork CakePHP 2.6 para a diagramação de sites. Diagramação de produtos para lojas Walmart, O Boticário projeto piloto para a Nestlé e Electrolux. Desenvolvimento em front-end e back-end com PHP 5.6, Banco de dados MYSQL Server 5.5, HTML 5, CSS3 e JavaScript.
 
 
 ### Experiência Profissional
